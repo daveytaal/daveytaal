@@ -1,0 +1,3 @@
+- 👋 Heey, I’m @daveytaal
+- 👨‍💻 Currently working as a **front-end developer** in the Netherlands
+- 🌱 I’m currently learning **new front-end stacks**
